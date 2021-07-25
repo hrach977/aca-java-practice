@@ -1,7 +1,12 @@
+/**
+ * params, int a
+ */
+
 public class Main {
     public static void main(String[] args) {
-        //I'm going to print out on the console
- //this is a comment       System.out.println("hi guys!");  //yet another comment
-    //dummy change
+        String val = "b1d0";
+        System.out.println("The string value: " + val);
+        int num = Integer.parseInt(val);
+        System.out.println("The integer value: " + num);
     }
 }
