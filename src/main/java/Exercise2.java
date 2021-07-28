@@ -8,7 +8,6 @@ public class Exercise2 {
     public static void main(String[] args) {
         float radius;
         Scanner input = new Scanner(System.in);
-//        float perimeter, area;
         double perimeter;
         double area;
         System.out.println("please enter radius");
