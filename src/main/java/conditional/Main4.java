@@ -9,8 +9,6 @@ public class Main4 {
         } else {
             System.out.println("both failed");
         }
-
-
 //        if ((num < 6) && (num > 8)) {
 //            System.out.println("both conditions passed");
 //        } else {
